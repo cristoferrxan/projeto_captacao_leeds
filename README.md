@@ -1,76 +1,65 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Projeto Captação de Leads</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background: #272822;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Projeto Captação de Leads</h1>
-        <p><strong>Descrição:</strong> Este projeto tem como objetivo criar uma landing page para capturar leads de forma eficiente, com um design moderno e responsivo.</p>
-        
-        <h2>📌 Tecnologias Utilizadas</h2>
-        <ul>
-            <li>HTML5</li>
-            <li>CSS3 (com variáveis e responsividade)</li>
-            <li>JavaScript</li>
-        </ul>
-        
-        <h2>🚀 Como Rodar o Projeto</h2>
-        <ol>
-            <li>Clone este repositório:</li>
-            <pre>git clone https://github.com/seuusuario/captacao-leads.git</pre>
-            <li>Acesse a pasta do projeto:</li>
-            <pre>cd captacao-leads</pre>
-            <li>Abra o arquivo <code>index.html</code> em um navegador.</li>
-        </ol>
-        
-        <h2>📂 Estrutura de Arquivos</h2>
-        <pre>
-        /captacao-leads
-        ├── index.html
-        ├── assets/
-        │   ├── css/
-        │   │   ├── style.css
-        │   ├── js/
-        │   │   ├── script.js
-        │   ├── images/
-        │   │   ├── logo.png
-        ├── README.html
-        </pre>
-        
-        <h2>📧 Contato</h2>
-        <p>Entre em contato para sugestões ou dúvidas:</p>
-        <ul>
-            <li>Email: <a href="mailto:cristoferruan@gmail.com">cristoferruan.21@gmail.com</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/cristofer-ruan-dev/" target="_blank">linkedin.com/in/cristofer-ruan-dev</a></li>
-        </ul>
-    </div>
-</body>
-</html>
+📌 Projeto: Captação de Leads
+
+📖 Descrição
+
+Este repositório contém um projeto de captação de leads, desenvolvido com foco na coleta eficiente de informações de usuários interessados em serviços ou produtos. O sistema é responsivo, seguro e otimizado para integração com diferentes plataformas.
+
+🚀 Tecnologias Utilizadas
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap (ou outra biblioteca de estilização, se aplicável)
+
+API de Email/WhatsApp (se houver integração)
+
+📦 Estrutura do Projeto
+
+/
+├── index.html        # Arquivo principal
+├── styles.css        # Estilização global
+├── script.js         # Funcionalidades dinâmicas
+├── assets/           # Imagens, ícones e outros arquivos
+└── README.md         # Documentação
+
+🎯 Funcionalidades
+
+📩 Formulário para coleta de leads
+
+📊 Validação de dados no frontend
+
+🔗 Integração com API externa (se houver)
+
+📱 Layout responsivo
+
+🛠 Como Executar o Projeto
+
+Clone este repositório:
+
+git clone https://github.com/seu-usuario/repositorio.git
+
+Acesse a pasta do projeto:
+
+cd repositorio
+
+Abra o arquivo index.html no navegador.
+
+✅ Contribuição
+
+Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias. Toda contribuição é bem-vinda! 😊
+
+📞 Contato
+
+Se precisar de mais informações, entre em contato:
+
+✉️ Email: seuemail@email.com
+
+🔗 LinkedIn
+
+📞 WhatsApp: +55 99 99999-9999
+
+© 2025 - Seu Nome | Todos os direitos reservados
+
