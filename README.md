@@ -1,65 +1,36 @@
-📌 Projeto: Captação de Leads
+# Projeto de Captação de Leads
 
-📖 Descrição
+## Descrição
+Este projeto tem como objetivo a captação eficiente de leads através de uma landing page moderna e responsiva. O projeto utiliza tecnologias como HTML, CSS e JavaScript para garantir uma boa experiência ao usuário.
 
-Este repositório contém um projeto de captação de leads, desenvolvido com foco na coleta eficiente de informações de usuários interessados em serviços ou produtos. O sistema é responsivo, seguro e otimizado para integração com diferentes plataformas.
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Frameworks e bibliotecas opcionais
 
-🚀 Tecnologias Utilizadas
+## Funcionalidades
+- Formulário de captura de leads
+- Integração com API para armazenamento de dados
+- Responsividade para diferentes dispositivos
+- Design moderno e acessível
 
-HTML5
+## Como Utilizar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd nome-do-repositorio
+   ```
+3. Abra o arquivo `index.html` no navegador.
 
-CSS3
+## Contribuições
+Sinta-se à vontade para contribuir com melhorias e sugestões para este projeto.
 
-JavaScript
+## Autor
+Desenvolvido por [Cristofer Ruan](https://github.com/cristoferrxan).
 
-Bootstrap (ou outra biblioteca de estilização, se aplicável)
-
-API de Email/WhatsApp (se houver integração)
-
-📦 Estrutura do Projeto
-
-/
-├── index.html        # Arquivo principal
-├── styles.css        # Estilização global
-├── script.js         # Funcionalidades dinâmicas
-├── assets/           # Imagens, ícones e outros arquivos
-└── README.md         # Documentação
-
-🎯 Funcionalidades
-
-📩 Formulário para coleta de leads
-
-📊 Validação de dados no frontend
-
-🔗 Integração com API externa (se houver)
-
-📱 Layout responsivo
-
-🛠 Como Executar o Projeto
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/repositorio.git
-
-Acesse a pasta do projeto:
-
-cd repositorio
-
-Abra o arquivo index.html no navegador.
-
-✅ Contribuição
-
-Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias. Toda contribuição é bem-vinda! 😊
-
-📞 Contato
-
-Se precisar de mais informações, entre em contato:
-
-✉️ Email: seuemail@email.com
-
-🔗 LinkedIn
-
-📞 WhatsApp: +55 99 99999-9999
-
-© 2025 - Seu Nome | Todos os direitos reservados
-
+## Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
