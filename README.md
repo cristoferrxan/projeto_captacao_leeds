@@ -1,74 +1,76 @@
-📌 Projeto: Captação de Leads
-
-📖 Descrição
-
-Este projeto tem como objetivo criar uma interface responsiva e intuitiva para a captação de leads. A aplicação conta com um design moderno, botões estilizados e efeitos interativos para melhorar a experiência do usuário. O sistema permite que visitantes preencham formulários e enviem seus dados para futuras comunicações.
-
-🚀 Tecnologias Utilizadas
-
-HTML5: Estruturação do site.
-
-CSS3: Estilização e efeitos visuais.
-
-JavaScript: Interatividade e manipulação do DOM.
-
-Responsividade: Design adaptado para diferentes tamanhos de tela.
-
-📂 Estrutura do Projeto
-
-📂 captação-de-leads/
-├── 📁 assets/              # Arquivos de mídia (imagens, ícones, etc.)
-├── 📁 css/                 # Arquivos de estilização
-│   ├── styles.css          # Estilos globais
-├── 📁 js/                  # Arquivos JavaScript
-│   ├── script.js           # Lógica do sistema
-├── index.html              # Estrutura principal da página
-├── README.md               # Documentação do projeto
-
-🎨 Estilização dos Botões
-
-Os botões do projeto foram personalizados com:
-
-Gradientes suaves
-
-Sombras e efeitos de hover
-
-Bordas arredondadas
-
-Feedback visual ao clique
-
-🛠️ Como Executar o Projeto
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/captacao-de-leads.git
-
-Acesse a pasta do projeto:
-
-cd captacao-de-leads
-
-Abra o arquivo index.html no navegador.
-
-🤝 Contribuição
-
-Sinta-se à vontade para contribuir com melhorias neste projeto! Para isso:
-
-Faça um fork do repositório.
-
-Crie uma branch para sua funcionalidade:
-
-git checkout -b minha-funcionalidade
-
-Faça o commit das suas alterações:
-
-git commit -m "Adicionando nova funcionalidade"
-
-Faça um push para a branch:
-
-git push origin minha-funcionalidade
-
-Abra um Pull Request.
-
-📩 Contato
-
-📧 Email: cristoferruan.21@gmail.com💼 LinkedIn: 🚀 Portfólio: .com
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Projeto Captação de Leads</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        pre {
+            background: #272822;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Projeto Captação de Leads</h1>
+        <p><strong>Descrição:</strong> Este projeto tem como objetivo criar uma landing page para capturar leads de forma eficiente, com um design moderno e responsivo.</p>
+        
+        <h2>📌 Tecnologias Utilizadas</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3 (com variáveis e responsividade)</li>
+            <li>JavaScript</li>
+        </ul>
+        
+        <h2>🚀 Como Rodar o Projeto</h2>
+        <ol>
+            <li>Clone este repositório:</li>
+            <pre>git clone https://github.com/seuusuario/captacao-leads.git</pre>
+            <li>Acesse a pasta do projeto:</li>
+            <pre>cd captacao-leads</pre>
+            <li>Abra o arquivo <code>index.html</code> em um navegador.</li>
+        </ol>
+        
+        <h2>📂 Estrutura de Arquivos</h2>
+        <pre>
+        /captacao-leads
+        ├── index.html
+        ├── assets/
+        │   ├── css/
+        │   │   ├── style.css
+        │   ├── js/
+        │   │   ├── script.js
+        │   ├── images/
+        │   │   ├── logo.png
+        ├── README.html
+        </pre>
+        
+        <h2>📧 Contato</h2>
+        <p>Entre em contato para sugestões ou dúvidas:</p>
+        <ul>
+            <li>Email: <a href="mailto:cristoferruan@gmail.com">cristoferruan.21@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/cristofer-ruan-dev/" target="_blank">linkedin.com/in/cristofer-ruan-dev</a></li>
+        </ul>
+    </div>
+</body>
+</html>
